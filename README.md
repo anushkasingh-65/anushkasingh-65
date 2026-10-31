@@ -60,3 +60,5 @@ Below is the automated contribution graph animation featuring the classic snake 
 ---
 
 ### 🌐 Connect with Me
+
+<p align="left">
