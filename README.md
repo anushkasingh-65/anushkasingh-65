@@ -15,3 +15,5 @@
 - 👯 I’m looking to collaborate on **Open Source projects & Full-Stack Web Applications**.
 - 💬 Ask me about **JavaScript, Python, React, HTML/CSS, Git**.
 - 📫 How to reach me: **anushkasingh-65** on GitHub
+
+---
