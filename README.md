@@ -34,3 +34,4 @@
 ---
 
 ### 🎮 Contribution Snake Game
+Below is the automated contribution graph animation featuring the classic snake eating contribution blocks!
