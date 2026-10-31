@@ -17,3 +17,5 @@
 - 📫 How to reach me: **anushkasingh-65** on GitHub
 
 ---
+
+### 🛠️ Languages & Tools
