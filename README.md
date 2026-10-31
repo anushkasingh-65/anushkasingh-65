@@ -12,3 +12,4 @@
 ### 💫 About Me
 - 🔭 I’m currently working on enhancing my web development and software engineering skills.
 - 🌱 I’m currently learning **Advanced Web Frameworks, Data Structures & Algorithms**.
+- 👯 I’m looking to collaborate on **Open Source projects & Full-Stack Web Applications**.
