@@ -51,3 +51,4 @@ Below is the automated contribution graph animation featuring the classic snake 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushkasingh-65&show_icons=true&theme=tokyonight&hide_border=true" alt="Anushka's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasingh-65&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
