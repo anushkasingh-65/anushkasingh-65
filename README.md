@@ -38,3 +38,4 @@ Below is the automated contribution graph animation featuring the classic snake 
 
 <p align="center">
   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkasingh-65/anushkasingh-65/output/github-contribution-grid-snake-dark.svg">
