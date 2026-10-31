@@ -9,6 +9,15 @@
 
 ---
 
+### 💻 Live Coding Companion
+
+<p align="center">
+  <!-- Animated coding girl companion illustration -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/programmer.gif" width="400" alt="Coding Companion Animation" />
+</p>
+
+---
+
 ### 💫 About Me
 - 🔭 I’m currently working on enhancing my web development and software engineering skills.
 - 🌱 I’m currently learning **Advanced Web Frameworks, Data Structures & Algorithms**.
