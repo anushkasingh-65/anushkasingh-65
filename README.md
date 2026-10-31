@@ -1,3 +1,8 @@
+<div align="center">
+  <!-- Animated Typing Companion / Coding Illustration -->
+  <img src="https://raw.githubusercontent.com/AnuraghHazra/AnuraghHazra/master/anim/read-read-anime.gif" width="600" alt="Coding Girl Animation" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">Passionate Developer & Tech Enthusiast</h3>
 
