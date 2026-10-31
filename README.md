@@ -43,3 +43,6 @@ Below is the automated contribution graph animation featuring the classic snake 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anushkasingh-65/anushkasingh-65/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+---
+
