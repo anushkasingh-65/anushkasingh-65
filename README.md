@@ -37,3 +37,4 @@
 Below is the automated contribution graph animation featuring the classic snake eating contribution blocks!
 
 <p align="center">
+  <picture>
