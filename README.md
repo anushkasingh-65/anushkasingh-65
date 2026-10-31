@@ -55,3 +55,4 @@ Below is the automated contribution graph animation featuring the classic snake 
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasingh-65&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </p>
