@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnuraghHazra/AnuraghHazra/master/anim/read-read-anime.gif" width="450" alt="Coding Girl Companion" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">Passionate Developer & Tech Enthusiast</h3>
 
