@@ -1,8 +1,3 @@
-<div align="center">
-  <!-- Animated Typing Companion / Coding Illustration -->
-  <img src="https://raw.githubusercontent.com/AnuraghHazra/AnuraghHazra/master/anim/read-read-anime.gif" width="600" alt="Coding Girl Animation" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">Passionate Developer & Tech Enthusiast</h3>
 
@@ -10,15 +5,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vcenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
-</p>
-
----
-
-### 💻 Live Coding Companion
-
-<p align="center">
-  <!-- Animated coding girl companion illustration -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/programmer.gif" width="400" alt="Coding Companion Animation" />
 </p>
 
 ---
