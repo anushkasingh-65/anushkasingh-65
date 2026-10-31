@@ -5,3 +5,4 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vcenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Tech+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
+</p>
