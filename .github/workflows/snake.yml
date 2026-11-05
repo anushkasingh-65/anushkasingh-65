@@ -20,3 +20,4 @@ branches:
 jobs:
 generate:
 permissions:
+contents: write
