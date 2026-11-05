@@ -12,3 +12,5 @@ schedule:
 workflow_dispatch:
 
 # run on every push on the main branch
+
+push:
