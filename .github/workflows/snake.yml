@@ -8,3 +8,5 @@ schedule:
 \- cron: "0 \*/24 \* \* \*"
 
 # allows to manually run the Job at any time
+
+workflow_dispatch:
